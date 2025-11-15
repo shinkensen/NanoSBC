@@ -1,4 +1,0 @@
-What I did today: 
-Imported the schematic for the RK3566, started on the USB-C PD for the power rails, and also worked a bit on the HDMI
-
-
